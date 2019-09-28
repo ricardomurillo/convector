@@ -20,7 +20,7 @@ The Convector Suite main components are:
 * [Github code examples](https://github.com/worldsibu) and [Code examples directory](https://docs.worldsibu.com/article/73-code-samples)
 * [Video tutorials](https://www.youtube.com/watch?v=BmVNMR-O_os&list=PL-1Vd1bTiSr_i2qeqeHCUWaD74ymRvidb)
 
-Have doubts, want to collaborate or just meet other Convector devs around the world? <a href="https://discord.gg/twRwpWt" target="_blank">
+Have doubts, want to collaborate or just meet other Convector devs around the world? <a href="https://community.covalentx.com" target="_blank">
         <i class="fab fa-discord"></i>Join the Discord (Chat) Community
     </a>
 
@@ -29,7 +29,7 @@ Have doubts, want to collaborate or just meet other Convector devs around the wo
 [![Issues](https://img.shields.io/github/issues-raw/@worldsibu/convector.svg)](https://github.com/hyperledger-labs/convector/issues)
 [![Newsletter](https://img.shields.io/badge/Newsletter--orange.svg)](https://worldsibu.tech/subscribe/)
 [![npm](https://img.shields.io/npm/v/@worldsibu/convector-core-chaincode.svg)](https://www.npmjs.com/package/@worldsibu/convector-core-chaincode)
-[![Discord](https://img.shields.io/discord/469152206638284800.svg)](https://discord.gg/twRwpWt)
+[![Discord](https://img.shields.io/discord/469152206638284800.svg)](https://community.covalentx.com)
 
 [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -78,4 +78,4 @@ Yes, we are also aware that Composer's development has experienced some changes 
 * [Product Hunt profile](https://www.producthunt.com/posts/convector-smart-contracts)
 * For recommendations, feature requests, or bugs go to our [issues section](https://github.com/hyperledger-labs/convector/issues).
 * News on Convector, subscribe to our [Newsletter](https://worldsibu.tech/subscribe/)
-* Need support? Chat directly with our team, join our [Discord](https://discord.gg/twRwpWt)
+* Need support? Chat directly with our team, join our [Discord](https://community.covalentx.com)
